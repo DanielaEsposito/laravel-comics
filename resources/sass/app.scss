@@ -80,13 +80,13 @@ a {
     position: absolute;
     height: 100%;
     width: 153vw;
-    left: -1998px;
+    left: -2000px;
     top: 0;
     z-index: -1;
 }
 
 .upper-footer {
-    background-image: url(../img/footer-bg.jpg);
+    background-image: url(../../config/assets/img/footer-bg.jpg);
     font-size: 0.8rem;
 }
 
@@ -95,7 +95,7 @@ a {
 }
 
 .footer-dc-logo {
-    background-image: url(../img/dc-logo-bg.png);
+    background-image: url(../../config/assets/img/dc-logo-bg.png);
     width: 350px;
     aspect-ratio: 1;
     background-repeat: no-repeat;

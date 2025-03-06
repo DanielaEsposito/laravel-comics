@@ -62,16 +62,16 @@
                         src="{{ Vite::asset('resources/img/footer-facebook.png') }}" alt="Facebook" width="30"
                         height="30">
                     <img class="me-3 cursor-pointer social-link"
-                        src="{{ Vite::asset('resources/img/footer-twitter.png') }}" alt="Twitter" width="30"
+                        src="{{ Vite::asset('config/assets/img/footer-twitter.png') }}" alt="Twitter" width="30"
                         height="30">
                     <img class="me-3 cursor-pointer social-link"
-                        src="{{ Vite::asset('resources/img/footer-youtube.png') }}" alt="YouTube" width="30"
+                        src="{{ Vite::asset('config/assets/img/footer-youtube.png') }}" alt="YouTube" width="30"
                         height="30">
                     <img class="me-3 cursor-pointer social-link"
-                        src="{{ Vite::asset('resources/img/footer-pinterest.png') }}" alt="Pinterest" width="30"
+                        src="{{ Vite::asset('config/assets/img/footer-pinterest.png') }}" alt="Pinterest" width="30"
                         height="30">
                     <img class="me-3 cursor-pointer social-link"
-                        src="{{ Vite::asset('resources/img/footer-periscope.png') }}" alt="Periscope" width="30"
+                        src="{{ Vite::asset('config/assets/img/footer-periscope.png') }}" alt="Periscope" width="30"
                         height="30">
                 </div>
             </div>
